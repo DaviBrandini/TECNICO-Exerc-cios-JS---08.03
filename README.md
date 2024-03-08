@@ -1,1 +1,2 @@
-# TECNICO-Exerc-cios-JS---08.03
+# exercicios tecnico
+# TECNICO-exercicios
